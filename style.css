@@ -1,0 +1,14 @@
+body, p, h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    border: 1px red dashed;
+
+}
+
+body {
+    background-color: rgb(241, 240, 156);
+}
+
+#print-area {
+    background-color:skyblue;
+    border: red 1px dashed;
+}
